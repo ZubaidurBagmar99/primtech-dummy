@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "MEP Systems",
+    "description": "Complete Mechanical, Electrical, and Plumbing solutions for commercial and industrial projects. Design, installation, and maintenance services.",
+    "icon": "Settings",
+    "features": [
+      "HVAC System Design & Installation",
+      "Electrical Power Distribution",
+      "Plumbing & Drainage Systems",
+      "Fire Protection Systems",
+      "Building Automation"
+    ],
+    "image": "/images/services/mep.jpg"
+  },
+  {
+    "id": 2,
+    "title": "HVAC Systems",
+    "description": "Advanced heating, ventilation, and air conditioning systems for optimal indoor air quality and energy efficiency.",
+    "icon": "Thermometer",
+    "features": [
+      "Central Air Conditioning",
+      "VRF/VRV Systems",
+      "Ductwork Design & Installation",
+      "Air Quality Management",
+      "Energy Recovery Systems"
+    ],
+    "image": "/images/services/hvac.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Fire Safety & Detection",
+    "description": "Comprehensive fire safety solutions including detection, suppression, and emergency response systems.",
+    "icon": "Flame",
+    "features": [
+      "Fire Detection Systems",
+      "Fire Suppression Systems",
+      "Emergency Lighting",
+      "Fire Alarm Panels",
+      "Safety Equipment Installation"
+    ],
+    "image": "/images/services/fire-safety.jpg"
+  },
+  {
+    "id": 4,
+    "title": "CCTV & Security Systems",
+    "description": "Advanced surveillance and security systems for comprehensive monitoring and protection.",
+    "icon": "Camera",
+    "features": [
+      "IP Camera Systems",
+      "Video Analytics",
+      "Access Control Systems",
+      "Intercom Systems",
+      "Remote Monitoring"
+    ],
+    "image": "/images/services/cctv.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Solar Systems",
+    "description": "Renewable energy solutions with solar panel installation and maintenance for sustainable power generation.",
+    "icon": "Sun",
+    "features": [
+      "Solar Panel Installation",
+      "Grid-Tied Systems",
+      "Off-Grid Solutions",
+      "Solar Water Heaters",
+      "Maintenance Services"
+    ],
+    "image": "/images/services/solar.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Generator & Electrical Installation",
+    "description": "Reliable backup power solutions and comprehensive electrical installation services.",
+    "icon": "Zap",
+    "features": [
+      "Diesel Generators",
+      "UPS Systems",
+      "Electrical Panel Installation",
+      "Wiring & Cabling",
+      "Load Testing"
+    ],
+    "image": "/images/services/generator.jpg"
+  }
+] 

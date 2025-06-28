@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Dhaka Corporate Tower",
+    "category": "Commercial",
+    "location": "Dhaka, Bangladesh",
+    "description": "Complete MEP installation for a 25-story corporate tower including HVAC, electrical, and fire safety systems.",
+    "image": "/images/projects/corporate-tower.jpg",
+    "services": ["MEP Systems", "HVAC Systems", "Fire Safety & Detection"],
+    "completionDate": "2023",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "title": "Industrial Manufacturing Plant",
+    "category": "Industrial",
+    "location": "Chittagong, Bangladesh",
+    "description": "Turnkey electromechanical solution for a large-scale manufacturing facility with advanced automation systems.",
+    "image": "/images/projects/manufacturing-plant.jpg",
+    "services": ["MEP Systems", "CCTV & Security Systems", "Generator & Electrical Installation"],
+    "completionDate": "2023",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "title": "Luxury Residential Complex",
+    "category": "Residential",
+    "location": "Dhaka, Bangladesh",
+    "description": "Premium residential complex with integrated smart home systems and renewable energy solutions.",
+    "image": "/images/projects/residential-complex.jpg",
+    "services": ["Solar Systems", "CCTV & Security Systems", "HVAC Systems"],
+    "completionDate": "2024",
+    "status": "Ongoing"
+  },
+  {
+    "id": 4,
+    "title": "Shopping Mall & Entertainment Center",
+    "category": "Commercial",
+    "location": "Sylhet, Bangladesh",
+    "description": "Comprehensive MEP and security systems for a modern shopping mall with entertainment facilities.",
+    "image": "/images/projects/shopping-mall.jpg",
+    "services": ["MEP Systems", "CCTV & Security Systems", "Fire Safety & Detection"],
+    "completionDate": "2022",
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "title": "Hospital & Medical Center",
+    "category": "Commercial",
+    "location": "Rajshahi, Bangladesh",
+    "description": "Critical care facility with advanced HVAC, electrical backup, and comprehensive safety systems.",
+    "image": "/images/projects/hospital.jpg",
+    "services": ["HVAC Systems", "Generator & Electrical Installation", "Fire Safety & Detection"],
+    "completionDate": "2023",
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "title": "Textile Factory",
+    "category": "Industrial",
+    "location": "Gazipur, Bangladesh",
+    "description": "Large-scale textile manufacturing facility with energy-efficient systems and comprehensive automation.",
+    "image": "/images/projects/textile-factory.jpg",
+    "services": ["MEP Systems", "Solar Systems", "CCTV & Security Systems"],
+    "completionDate": "2024",
+    "status": "Ongoing"
+  },
+  {
+    "id": 7,
+    "title": "Educational Institution",
+    "category": "Commercial",
+    "location": "Dhaka, Bangladesh",
+    "description": "Modern educational campus with smart classrooms, security systems, and sustainable energy solutions.",
+    "image": "/images/projects/educational-institution.jpg",
+    "services": ["Solar Systems", "CCTV & Security Systems", "HVAC Systems"],
+    "completionDate": "2023",
+    "status": "Completed"
+  },
+  {
+    "id": 8,
+    "title": "Apartment Complex",
+    "category": "Residential",
+    "location": "Chittagong, Bangladesh",
+    "description": "Multi-story residential complex with modern amenities and integrated security systems.",
+    "image": "/images/projects/apartment-complex.jpg",
+    "services": ["MEP Systems", "CCTV & Security Systems", "Generator & Electrical Installation"],
+    "completionDate": "2024",
+    "status": "Ongoing"
+  }
+] 
